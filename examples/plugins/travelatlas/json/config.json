@@ -1,0 +1,23 @@
+{
+	"enable_style":true,
+
+	"style":"Subtle Grayscale",
+
+	"center_latitude":29.3341418,
+
+	"center_longitude":10.0562153,
+
+	"default_zoom":2,
+
+	"home_icon":"pin_blue.png",
+
+	"country_icon":"pin_red.png",
+
+	"city_icon":"pin_green.png",
+
+	"enable_info_dialog":true,
+
+	"enable_city_markers":false,
+
+	"enable_country_markers":true
+}

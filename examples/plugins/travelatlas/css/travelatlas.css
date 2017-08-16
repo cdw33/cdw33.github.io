@@ -1,0 +1,13 @@
+#markerLayer img {
+  animation: pulse .5s infinite alternate;
+  -webkit-animation: pulse .5s infinite alternate;
+  transform-origin: center;
+  -webkit-transform-origin: center;
+}
+
+#map {
+    width: 100%;
+    height: 400px;
+    max-width: 1050px;
+    max-height: 550px;
+}

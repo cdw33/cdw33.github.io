@@ -1,0 +1,253 @@
+[
+  {
+    "-id": "1",
+    "country_name": "United States",
+    "year_visited": "2016",
+    "duration": "",
+    "cities_visited": [],
+    "is_home": 1
+  },
+  {
+    "-id": "2",
+    "country_name": "Israel",
+    "year_visited": "2016",
+    "duration": "10 days",
+    "cities_visited": [],
+    "is_home": 0
+  },
+  {
+    "-id": "3",
+    "country_name": "Greece",
+    "year_visited": "2016",
+    "duration": "",
+    "cities_visited": [],
+    "is_home": 0
+  },
+  {
+    "-id": "4",
+    "country_name": "Italy",
+    "year_visited": "2016",
+    "duration": "",
+    "cities_visited": [],
+    "is_home": 0
+  },
+  {
+    "-id": "5",
+    "country_name": "Vatican City",
+    "year_visited": "2016",
+    "duration": "",
+    "cities_visited": [],
+    "is_home": 0
+  },
+  {
+    "-id": "6",
+    "country_name": "Austria",
+    "year_visited": "2016",
+    "duration": "",
+    "cities_visited": [],
+    "is_home": 0
+  },
+  {
+    "-id": "7",
+    "country_name": "Czech Republic",
+    "year_visited": "2016",
+    "duration": "10 days",
+    "cities_visited": [],
+    "is_home": 0
+  },
+  {
+    "-id": "8",
+    "country_name": "Germany",
+    "year_visited": "2016",
+    "duration": "",
+    "cities_visited": [],
+    "is_home": 0
+  },
+  {
+    "-id": "9",
+    "country_name": "Denmark",
+    "year_visited": "2016",
+    "duration": "",
+    "cities_visited": [],
+    "is_home": 0
+  },
+  {
+    "-id": "10",
+    "country_name": "Netherlands",
+    "year_visited": "2016",
+    "duration": "",
+    "cities_visited": [],
+    "is_home": 0
+  },
+  {
+    "-id": "11",
+    "country_name": "Belgium",
+    "year_visited": "2016",
+    "duration": "",
+    "cities_visited": [],
+    "is_home": 0
+  },
+  {
+    "-id": "12",
+    "country_name": "United Kingdom",
+    "year_visited": "2016",
+    "duration": "10 days",
+    "cities_visited": [],
+    "is_home": 0
+  },
+  {
+    "-id": "13",
+    "country_name": "Ireland",
+    "year_visited": "2016",
+    "duration": "",
+    "cities_visited": [],
+    "is_home": 0
+  },
+  {
+    "-id": "14",
+    "country_name": "France",
+    "year_visited": "2016",
+    "duration": "",
+    "cities_visited": [
+      { "city_name":"Paris", "city_coordinates":[48.8566, 2.3522] },
+      { "city_name":"Nice", "city_coordinates":[43.7102, 7.2620] }
+    ],
+    "is_home": 0
+  },
+  {
+    "-id": "15",
+    "country_name": "Spain",
+    "year_visited": "2016",
+    "duration": "",
+    "cities_visited": [],
+    "is_home": 0
+  },
+  {
+    "-id": "16",
+    "country_name": "Morocco",
+    "year_visited": "2016",
+    "duration": "",
+    "cities_visited": [],
+    "is_home": 0
+  },
+  {
+    "-id": "17",
+    "country_name": "Andorra",
+    "year_visited": "2016",
+    "duration": "",
+    "cities_visited": [],
+    "is_home": 0
+  },
+  {
+    "-id": "18",
+    "country_name": "Monaco",
+    "year_visited": "2016",
+    "duration": "10 days",
+    "cities_visited": [],
+    "is_home": 0
+  },
+  {
+    "-id": "19",
+    "country_name": "Switzerland",
+    "year_visited": "2016",
+    "duration": "",
+    "cities_visited": [],
+    "is_home": 0
+  },
+  {
+    "-id": "20",
+    "country_name": "Iceland",
+    "year_visited": "2016",
+    "duration": "",
+    "cities_visited": [],
+    "is_home": 0
+  },
+  {
+    "-id": "21",
+    "country_name": "Mexico",
+    "year_visited": "2017",
+    "duration": "10 days",
+    "cities_visited": [],
+    "is_home": 0
+  },
+  {
+    "-id": "22",
+    "country_name": "Belize",
+    "year_visited": "2017",
+    "duration": "",
+    "cities_visited": [],
+    "is_home": 0
+  },
+  {
+    "-id": "23",
+    "country_name": "Guatemala",
+    "year_visited": "2017",
+    "duration": "",
+    "cities_visited": [],
+    "is_home": 0
+  },
+  {
+    "-id": "24",
+    "country_name": "Honduras",
+    "year_visited": "2017",
+    "duration": "",
+    "cities_visited": [],
+    "is_home": 0
+  },
+  {
+    "-id": "25",
+    "country_name": "Nicaragua",
+    "year_visited": "2017",
+    "duration": "",
+    "cities_visited": [],
+    "is_home": 0
+  },
+  {
+    "-id": "26",
+    "country_name": "Costa Rica",
+    "year_visited": "2017",
+    "duration": "10 days",
+    "cities_visited": [],
+    "is_home": 0
+  },
+  {
+    "-id": "27",
+    "country_name": "Panama",
+    "year_visited": "2017",
+    "duration": "",
+    "cities_visited": [],
+    "is_home": 0
+  },
+  {
+    "-id": "28",
+    "country_name": "Colombia",
+    "year_visited": "2017",
+    "duration": "",
+    "cities_visited": [],
+    "is_home": 0
+  },
+  {
+    "-id": "29",
+    "country_name": "Peru",
+    "year_visited": "2017",
+    "duration": "",
+    "cities_visited": [],
+    "is_home": 0
+  },
+  {
+    "-id": "30",
+    "country_name": "Chile",
+    "year_visited": "2017",
+    "duration": "",
+    "cities_visited": [],
+    "is_home": 0
+  },
+  {
+    "-id": "31",
+    "country_name": "Canada",
+    "year_visited": "2017",
+    "duration": "3 days",
+    "cities_visited": ["Niagara Falls", "Toronto", "Hamilton", "testing testing testing testing"],
+    "is_home": 0
+  }
+]
